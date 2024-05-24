@@ -24,7 +24,7 @@ integration for easy CI/CD setup and uses the shadcn/ui design system.
 -   🌍 Vercel: CI/CD integration with Vercel for seamless deployment and hosting
     of Next.js applications.
 
-## Quickstart 🚀
+## Quick Start 🚀
 
 💾 Clone the repository
 
