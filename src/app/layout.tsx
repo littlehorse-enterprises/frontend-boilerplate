@@ -4,6 +4,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import "tailwindcss/tailwind.css";
 import { Toaster } from "@/components/ui/sonner";
+import { ThemeProvider } from "@/components/theme-provider";
 
 // Uncomment and fill out all metadata fields
 export const metadata: Metadata = {
@@ -75,15 +76,15 @@ export default function RootLayout({
 	children: React.ReactNode;
 }) {
 	return (
-		<html
-			lang="en"
-			className={cn(
-				"h-screen w-screen",
-				inter.className
-			)}
-		>
+		<html lang="en" className={cn("h-screen w-screen", inter.className)}>
 			<body className="h-full w-full">
-				<Toaster/>
+				<ThemeProvider
+					attribute="class"
+					defaultTheme="system"
+					enableSystem
+					disableTransitionOnChange
+				/>
+				<Toaster />
 				{children}
 			</body>
 		</html>

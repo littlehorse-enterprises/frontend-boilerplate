@@ -1,4 +1,5 @@
-import { GithubIcon } from "lucide-react";
+import { Github } from "lucide-react";
+
 export default function Page() {
 	return (
 		<div className="w-full h-full bg-gray-700 flex items-center justify-center">
@@ -18,7 +19,7 @@ export default function Page() {
 							aria-label="GitHub"
 							className="p-2 rounded-md text-gray-100 hover:text-violet-400"
 						>
-							<GithubIcon className="size-8" />
+							<Github className="size-8" />
 						</a>
 					</div>
 				</div>
