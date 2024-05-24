@@ -1,16 +1,15 @@
 # ☂️ NextJS Boilerplate
 
 This is a NextJS boilerplate that comes with TailwindCSS, Typescript, Prettier,
-and Mixpanel, making it easy for you to kickstart your Next.js projects with
-modern web development tools and best practices. It also includes Vercel
-integration for easy CI/CD setup and uses the shadcn/ui design system.
+and, making it easy for you to kickstart your Next.js projects with
+modern web development tools and best practices and uses the Shadcn/ui design system.
 
 ## Features 🔥
 
 - 🚀 Next.js: A popular React framework for building server-rendered React
     applications.
 - 🎨 Comprehensive Design System: Built with
-    [shadcn/ui](https://ui.shadcn.com/), a high quality design system for
+    [Shadcn/ui](https://ui.shadcn.com/), a high quality design system for
     building modern web applications.
 - 📦 SWR: A React Hooks library for remote data fetching.
 - 📂 Lucide: A comprehensive & beautiful icon set with over 1,400 icons.
@@ -21,8 +20,6 @@ integration for easy CI/CD setup and uses the shadcn/ui design system.
     better code quality and error checking.
 - 🔧 Prettier: An opinionated code formatter that enforces consistent code
     style for better code readability.
-- 🌍 Vercel: CI/CD integration with Vercel for seamless deployment and hosting
-    of Next.js applications.
 
 ## Quick Start 🚀
 
@@ -66,4 +63,3 @@ the app to Vercel by following these steps:
 - [TailwindCSS Documentation](https://tailwindcss.com/docs)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [Prettier Documentation](https://prettier.io/docs/en/)
-- [Vercel Documentation](https://vercel.com/docs)
