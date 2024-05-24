@@ -7,21 +7,21 @@ integration for easy CI/CD setup and uses the shadcn/ui design system.
 
 ## Features 🔥
 
--   🚀 Next.js: A popular React framework for building server-rendered React
+- 🚀 Next.js: A popular React framework for building server-rendered React
     applications.
--   🎨 Comprehensive Design System: Built with
+- 🎨 Comprehensive Design System: Built with
     [shadcn/ui](https://ui.shadcn.com/), a high quality design system for
     building modern web applications.
--   📦 SWR: A React Hooks library for remote data fetching.
--   📂 Lucide: A comprehensive & beautiful icon set with over 1,400 icons.
+- 📦 SWR: A React Hooks library for remote data fetching.
+- 📂 Lucide: A comprehensive & beautiful icon set with over 1,400 icons.
     [lucide](https://lucide.dev)
--   💅 TailwindCSS: A highly customizable CSS framework for building modern user
+- 💅 TailwindCSS: A highly customizable CSS framework for building modern user
     interfaces.
--   🔍 Typescript: A statically typed superset of JavaScript that provides
+- 🔍 Typescript: A statically typed superset of JavaScript that provides
     better code quality and error checking.
--   🔧 Prettier: An opinionated code formatter that enforces consistent code
+- 🔧 Prettier: An opinionated code formatter that enforces consistent code
     style for better code readability.
--   🌍 Vercel: CI/CD integration with Vercel for seamless deployment and hosting
+- 🌍 Vercel: CI/CD integration with Vercel for seamless deployment and hosting
     of Next.js applications.
 
 ## Quick Start 🚀
@@ -59,11 +59,11 @@ the app to Vercel by following these steps:
 
 ## Resources 🎨
 
--   [Next.js Documentation](https://nextjs.org/docs)
--   [Shadcn/ui Documentation](https://ui.shadcn.com/)
--   [SWR Documentation](https://swr.vercel.app/)
--   [Axios Documentation](https://axios-http.com/docs/intro)
--   [TailwindCSS Documentation](https://tailwindcss.com/docs)
--   [TypeScript Documentation](https://www.typescriptlang.org/docs/)
--   [Prettier Documentation](https://prettier.io/docs/en/)
--   [Vercel Documentation](https://vercel.com/docs)
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Shadcn/ui Documentation](https://ui.shadcn.com/)
+- [SWR Documentation](https://swr.vercel.app/)
+- [Axios Documentation](https://axios-http.com/docs/intro)
+- [TailwindCSS Documentation](https://tailwindcss.com/docs)
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+- [Prettier Documentation](https://prettier.io/docs/en/)
+- [Vercel Documentation](https://vercel.com/docs)
