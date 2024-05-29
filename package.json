@@ -1,5 +1,5 @@
 {
-	"name": "frontend-boilerplate",
+	"name": "@littlehorse-enterprises/frontend-boilerplate",
 	"version": "1.3.1",
 	"description": "Littlehorse's OSS frontend boilerplate to easily create new frontend projects when needed.",
 	"main": "next-sitemap.config.js",
