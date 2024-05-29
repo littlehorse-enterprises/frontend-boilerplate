@@ -1,4 +1,24 @@
 {
+	"name": "frontend-boilerplate",
+	"version": "1.3.1",
+	"description": "Littlehorse's OSS frontend boilerplate to easily create new frontend projects when needed.",
+	"main": "next-sitemap.config.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/littlehorse-enterprises/frontend-boilerplate.git"
+	},
+	"keywords": [
+		"lh",
+		"lh-frontend",
+		"littlehorse",
+		"littlehorse-frontend"
+	],
+	"author": "littlehorse",
+	"license": "SSPL-1.0",
+	"bugs": {
+		"url": "https://github.com/littlehorse-enterprises/frontend-boilerplate/issues"
+	},
+	"homepage": "https://github.com/littlehorse-enterprises/frontend-boilerplate#readme",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
@@ -53,7 +73,6 @@
 		"react-hook-form": "^7.49.3",
 		"react-resizable-panels": "^1.0.9",
 		"sonner": "^1.3.1",
-		"swr": "^2.2.5",
 		"tailwind-merge": "^2.2.0",
 		"tailwindcss-animate": "^1.0.7"
 	},
