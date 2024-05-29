@@ -42,18 +42,6 @@ modern web development tools and best practices and uses the Shadcn/ui design sy
 🌐 Open your browser and go to `http://localhost:3000` to see the Next.js app
 running locally.
 
-## Deployment 🛠️
-
-This boilerplate is configured to be easily deployed to Vercel. You can deploy
-the app to Vercel by following these steps:
-
-1. 🚀 Sign up for a free account on Vercel: `https://vercel.com/signup`
-2. 💻 Install the Vercel CLI globally on your machine: `npm install -g vercel`
-3. 🔑 Authenticate with your Vercel account: `vercel login`
-4. 🌍 Deploy the app: `vercel`
-5. 🎉 Follow the prompts to deploy the app to Vercel. Once deployed, you will
-   receive a unique URL where your app is live.
-
 ## Resources 🎨
 
 - [Next.js Documentation](https://nextjs.org/docs)
